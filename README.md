@@ -71,9 +71,9 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/jiddi222/Online-Learning-Platform.git">
-         <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jiddi222&repo=ScribeNova&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="ScribeNova" />
-      </a>
+        <a href="https://github.com/jiddi222/Online-Learning-Platform">
+  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jiddi222&repo=Online-Learning-Platform&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Online Learning Platform" />
+</a>
       </p>
     </td>
     <td width="50%">
@@ -99,7 +99,7 @@
 <!--LeetCode status-->
 <h2 align="center">⚡ LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs ⚡</h2>
 <p align="center">
-  <a href="https://leetcode.com/vanshraghav" target="_blank">
+  <a href="https://leetcode.com/jiddi222" target="_blank">
     <img align="center" width="50%" 
      src="https://leetcard.jacoblin.cool/jiddi222?theme=nord&bg_color=0,000000,441350&title_color=c56a90" 
      alt="LeetCode Stats" />
