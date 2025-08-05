@@ -3,7 +3,7 @@
 ![Tarun Banner Image](./image.png)
 <!--Contact Section--> 
 <div align="center"> 
-  <a href="raghavvansh12@gmail.com">
+  <a href=📧 Email: [raghavvansh12@gmail.com](mailto:raghavvansh12@gmail.com)>
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/vansh-raghav-824a482b4" target="_blank">
