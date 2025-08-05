@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <!--Banner-->
-![Tarun Banner Image](./image.png)
+![Vansh Raghav ](./image.png)
 <!--Contact Section--> 
 <div align="center"> 
   <a href=📧 Email: [raghavvansh12@gmail.com](mailto:raghavvansh12@gmail.com)>
@@ -55,7 +55,7 @@
       <p align="center">
         <a href="https://github.com/jiddi222/Vansh-Raghav-sys-.git">
           <img align="center" src="
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshraghav&show_icons=true&theme=github_dark)"
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiddi222&show_icons=true&theme=github_dark)"
 />
         </a>
       </p>
