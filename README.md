@@ -62,8 +62,8 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/jiddi222/Vansh-Raghav-sys-.git">
-          <img align="center" src="https://streak-stats.demolab.com?user=vanshraghav-sys&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
+        <img align="center" src="https://streak-stats.demolab.com?user=jiddi222&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
       </p>
     </td>
   </tr>
@@ -72,15 +72,15 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/jiddi222/Online-Learning-Platform.git">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=vanshraghav-sys&repo=ScribeNova&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="ScribeNova" />
-        </a>
+         <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jiddi222&repo=ScribeNova&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="ScribeNova" />
+      </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/vanshraghav-sys">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=vanshraghav-sys&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+         <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jiddi222&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -91,7 +91,8 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshraghav-sys&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiddi222&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;" alt="Contribution Graph"/>
+
 </div>
 <br />
 
@@ -99,9 +100,10 @@
 <h2 align="center">⚡ LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs ⚡</h2>
 <p align="center">
   <a href="https://leetcode.com/vanshraghav" target="_blank">
-    <img align="center" width="50%"
-      src="https://leetcard.jacoblin.cool/vanshraghav?theme=nord&bg_color=0,000000,441350&title_color=c56a90"
-      alt="LeetCode Stats" />
+    <img align="center" width="50%" 
+     src="https://leetcard.jacoblin.cool/jiddi222?theme=nord&bg_color=0,000000,441350&title_color=c56a90" 
+     alt="LeetCode Stats" />
+
   </a>
 </p>
 
