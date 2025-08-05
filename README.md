@@ -54,9 +54,8 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/jiddi222/Vansh-Raghav-sys-.git">
-          <img align="center" src="
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiddi222&show_icons=true&theme=github_dark)"
-/>
+          <img align="center" src="<a href="https://github.com/jiddi222">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiddi222&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs_merged_percentage,contribs&show=reviews,prs,issues" alt="GitHub Stats" />
         </a>
       </p>
     </td>
