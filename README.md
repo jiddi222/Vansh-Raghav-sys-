@@ -100,9 +100,10 @@
 <h2 align="center">⚡ LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs ⚡</h2>
 <p align="center">
   <a href="https://leetcode.com/jiddi222" target="_blank">
-    <img align="center" width="50%" 
-     src="https://leetcard.jacoblin.cool/jiddi222?theme=nord&bg_color=0,000000,441350&title_color=c56a90" 
-     alt="LeetCode Stats" />
+  <img align="center" width="50%" 
+       src="https://leetcard.jacoblin.cool/jiddi222?theme=nord&bg_color=0,000000,441350&title_color=c56a90" 
+       alt="LeetCode Stats" />
+
 
   </a>
 </p>
